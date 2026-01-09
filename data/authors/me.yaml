@@ -1,19 +1,19 @@
-schema: hugoblox/author/v1
-slug: me
-is_owner: true
-name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+name: Xinping Yang
+role: Plant developmental biology & genome engineering
+
+organization: Maastricht University
+location: Maastricht, The Netherlands
+
+bio: >
+  I work on controlling plant developmental programs using light, hormones, and genome engineering,
+  with a focus on high-value crops such as cucumber and strawberry. My research aims to make
+  regeneration-dependent technologies—such as gene editing and controlled-environment propagation—
+  reliable across elite cultivars.
+
+email: "xinping.yang@maastrichtuniversity.nl"   # put your email here if you want it public
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Molecular Plant Research Scientist
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
