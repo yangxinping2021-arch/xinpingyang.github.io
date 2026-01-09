@@ -3,7 +3,7 @@ title: Xinping Yang
 role: Plant developmental biology & genome engineering
 
 organizations:
-  - name: Your University or Institute
+  - name: Maastricht University
     url: ""
 
 social:
