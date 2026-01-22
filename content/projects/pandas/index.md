@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Wild cucumber
+date: 2026-01-22
 links:
   - type: site
     url: https://github.com/pandas-dev/pandas
