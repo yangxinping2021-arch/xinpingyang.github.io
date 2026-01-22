@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Centered with plant regeneration, I am reaching on crop species, including cucumber and tomato, to investigate the mechanisms underlying regeneration competence and to innovate molecular breeding in these species.
       filters:
         folders:
           - projects
