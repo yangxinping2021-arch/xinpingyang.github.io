@@ -15,5 +15,8 @@ social:
   - icon: github
     icon_pack: fab
     link: 'https://github.com/yourusername'
+
+content/authors/admin/
+
 ---
 I work on controlling plant developmental programs using light, hormones, and genome engineering, with a focus on high-value crops such as cucumber and strawberry. My research aims to make regeneration-dependent technologies—such as gene editing, speed breeding, and synthetic seeds—reliable across elite cultivars.
